@@ -1,0 +1,29 @@
+*, html {
+    margin: 0 auto;
+}
+.imagem {
+    width: 100%;
+    height: 395px;
+    object-position: 30%;
+}
+.titulo {
+    color: Brown;
+
+}
+
+.produto{
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    
+}
+ 
+.texto {
+
+}
+.destaque {
+    width: 100%;
+    height: 450px;
+    
+}
+
